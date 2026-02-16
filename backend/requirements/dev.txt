@@ -14,4 +14,5 @@ factory-boy==3.3.0
 
 # Development tools
 django-debug-toolbar==4.3.0
+django-extensions==3.2.3
 ipython==8.21.0
