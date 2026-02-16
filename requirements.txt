@@ -1,0 +1,10 @@
+# CodeMentor AI - Requirements
+# Python 3.7+
+
+# No external dependencies required for basic functionality
+# The core application uses only Python standard library
+
+# Optional dependencies for future enhancements:
+# openai>=1.0.0  # For OpenAI API integration
+# anthropic>=0.5.0  # For Claude API integration
+# requests>=2.31.0  # For API calls
