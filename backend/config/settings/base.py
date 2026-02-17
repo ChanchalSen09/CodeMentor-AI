@@ -177,7 +177,6 @@ LOGGING = {
             "style": "{",
         },
     },
-
     "handlers": {
         "console": {
             "class": "logging.StreamHandler",
